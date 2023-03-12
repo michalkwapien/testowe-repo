@@ -1,1 +1,1 @@
-tets 1
+tets 10
